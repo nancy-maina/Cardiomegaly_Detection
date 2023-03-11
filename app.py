@@ -16,7 +16,7 @@ import os
 import glob
 import re
 import numpy as np
-import tensorflow as tfp
+import tensorflow as tf
 import pandas as pd
 import matplotlib.pyplot as plt
 from glob import glob
